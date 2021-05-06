@@ -4,8 +4,7 @@
 // Image.cpp : Defines the class operations on images
 //
 // Author - Parag Havaldar
-// Edited by Aman Vora
-// Code used by students as starter code to display and modify images
+// Edited by Dosven
 //
 //*****************************************************************************
 
